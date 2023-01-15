@@ -12,5 +12,3 @@ Max: 126. Min: 73.
 
 Mean: 97.47. Standard deviation: 11.37.
 
-<h3>Detail</h3>
-

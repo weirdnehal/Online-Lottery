@@ -14,12 +14,3 @@ Mean: 97.47. Standard deviation: 11.37.
 
 <h3>Detail</h3>
 
-![Detail](images/heatmap.jpg)
-
-<h3>Top 10</h3>
-
-![Top 10](images/top-10.jpg)
-
-<h3>Distribution</h3>
-
-![Distribution](images/distribution.jpg)
